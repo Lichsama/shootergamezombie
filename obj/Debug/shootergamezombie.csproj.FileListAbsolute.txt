@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\bin\Debug\shootergamezombie.exe.config
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\bin\Debug\shootergamezombie.exe
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\bin\Debug\shootergamezombie.pdb
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.Form1.resources
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.Properties.Resources.resources
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.csproj.GenerateResource.cache
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.exe
+C:\Users\User\source\repos\shootergamezombie\shootergamezombie\obj\Debug\shootergamezombie.pdb
